@@ -1,0 +1,47 @@
+Todolist:
+1. materials checked
+    a. soil sensor @Lab
+        Need: 2
+        Current: 0
+    b. air sensor @Binh
+        Need: 1
+        current: 1
+    c. Water check sensor: @Binh
+        need: 1
+        current: 1
+    d. model materials:
+        need: dozen works
+        Current: no
+    e. power source: @Duy
+        need: 1
+        current: 1
+    f. battery holder:
+        need: 1
+        current: 0 (lab may have)
+    g. water pump: @Duy
+        need: 1
+        current: 1
+    h. water pipe: @Duy
+        need: 1
+        current: 1
+    i. etc...
+2. materials test
+    - test each sensor or device works or not
+    - test if they can catch and send data to local
+
+3. step by step coding
+    pre. check all devices are ready to fukt. 
+    a. test sensor and device work
+        - each sensor has it own report 
+            + how it works and what they do
+    b. try to receive data from data 
+        - test each sensor is needed
+    c. use data to trigger device
+        - test several times are needed
+    d. write report and film demo-video
+
+predicted time: 2 weeks
+
+@Binh
+@Duy 
+@Quan
